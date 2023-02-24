@@ -13,6 +13,7 @@ status](https://www.r-pkg.org/badges/version/camtraptor)](https://CRAN.R-project
 status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![last
 commit](https://img.shields.io/github/last-commit/inbo/camtraptor)
+[![pkgdown](https://github.com/PietrH/camtraptor_pkgdown/actions/workflows/pkgdown.yaml/badge.svg?branch=main)](https://github.com/PietrH/camtraptor_pkgdown/actions/workflows/pkgdown.yaml)
 <!-- badges: end -->
 
 Camtraptor is an R package to read, explore and visualize Camera Trap
