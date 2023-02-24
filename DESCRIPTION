@@ -64,3 +64,4 @@ LazyDataCompression: bzip2
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Config/testthat/edition: 3
+URL: https://pietrh.github.io/camtraptor_pkgdown/
